@@ -41,6 +41,7 @@
 - **interactsh-collaborator** --- Interact.sh反链平台的burp插件 [源处](https://github.com/wdahlenburg/interactsh-collaborator)
 - **burpsuite_hack** --- 被动代理扫描插件，可检测SQL注入、SSRF漏洞 [源处](https://github.com/depycode/burpsuite_hack)
 - **BypassPro** --- 对权限绕过自动化bypass的burpsuite插件 [源处](https://github.com/0x727/BypassPro) | [BypassPro修改升级版本](https://github.com/c0r1/BypassPro)
+- **BypassFuzzer-Burp** --- 用于测试授权绕过漏洞（401/403 bypass）和 URL 校验绕过的 BurpSuite 插件 [源处](https://github.com/intrudir/BypassFuzzer-Burp)
 - **burp-vps-proxy** --- 在大多数的云服务上自动创建和删除一个上游SOCKS5代理并自动应用的插件 [源处](https://github.com/d3mondev/burp-vps-proxy)
 - **CustomCrypto** --- Burp自定义加解密插件 [源处](https://github.com/dreamncn/CustomCrypto)
 - **npscrack** --- npscrack：蓝队利器、溯源反制、NPS 漏洞利用、NPS exp、NPS poc、一键利用的BurpSuite插件 [源处](https://github.com/weishen250/npscrack)
@@ -263,4 +264,3 @@ Burpsuite 官方文档的中文版：[项目地址](https://github.com/yw9381/Bu
 
 :congratulations: :date: `2020/01/03`登上GitHub的trending截图纪念:tada: 感谢大家的支持！Thank you!
 ![:congratulations: :date: `2020/01/03`登上GitHub的trending](./img/登上GitHub的trending截图纪念.png)
-
